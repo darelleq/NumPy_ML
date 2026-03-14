@@ -37,4 +37,4 @@ All work within this repository is licensed with the Attribution-NonCommercial-S
 
 ##
 <strong>Thanks for reading❗️😄</strong>
-If my work was useful in anyway, please support it with a star ⭐️👍
+<br>If my work was useful in anyway, please support it with a star ⭐️👍</br>
